@@ -1,0 +1,8 @@
+{
+	"create-jar": {
+		"auto-deploy-portlet": true,
+		"web-context-path": "/reach-router-senna",
+		"output-dir": "dist"
+	},
+	"dump-report": true
+}
